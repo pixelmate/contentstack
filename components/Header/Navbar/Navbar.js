@@ -27,7 +27,7 @@ function Navbar({ navitems }) {
               <a class="nav-link" href="/">Home</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="#">Blogs</a>
+              <a class="nav-link" href="/blogs">Blogs</a>
             </li>
             <li class="nav-item">
               <a class="nav-link" href="#">News</a>
