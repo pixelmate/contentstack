@@ -277,3 +277,13 @@
     transform: rotate(0deg);
   }
 }
+
+.carousel-item> img{
+  width: 100%;
+  height: auto;
+  background-position: 30% 38%;
+  min-height: 600px;
+  margin-top: -80px;
+  background-repeat: no-repeat!important; 
+}
+
